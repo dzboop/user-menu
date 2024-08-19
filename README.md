@@ -1,7 +1,4 @@
 # user-menu
-To create a user-friendly and visually appealing user menu for the website you provided, here’s a proposed structure:
-
----
 
 ## **Risk Prediction Tool User Menu**
 
